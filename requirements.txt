@@ -1,2 +1,5 @@
 ipykernel
 pydantic
+langchain
+python-dotenv
+langchain-community
