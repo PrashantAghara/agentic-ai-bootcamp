@@ -4,3 +4,6 @@ langchain
 python-dotenv
 langchain-community
 langchain-groq
+langchain-tavily
+arxiv
+wikipedia
