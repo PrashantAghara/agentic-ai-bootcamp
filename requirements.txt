@@ -12,3 +12,4 @@ langchain_huggingface
 sentence-transformers
 faiss-cpu
 langchain-classic
+tiktoken
